@@ -3,7 +3,6 @@
 I like building things—sometimes useful, sometimes just for fun 🚀. I'm usually tinkering with new ideas, shipping projects, or trying out tools I haven't used before. I'm into software engineering, machine learning, and everything in between. When I'm not coding, I'm probably cooking 🍳 or staying up too late watching Formula 1 🏎️.
 
 ## Currently, I'm
-🏗️ Training an autonomous vehicle perception model  
 ⚡ Supercharging development at Zoofi.ai
 
 ## Some tools I code with
