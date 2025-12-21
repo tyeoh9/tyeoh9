@@ -3,6 +3,9 @@
 I like building things—sometimes useful, sometimes just for fun 🚀. I'm usually tinkering with new ideas, shipping projects, or trying out tools I haven't used before. I'm into software engineering, machine learning, and everything in between. When I'm not coding, I'm probably cooking 🍳 or staying up too late watching Formula 1 🏎️.
 
 ## Some tools I code with
+I'm currently tinkering with Claude Code...
+
+## Some tools I code with
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
   <img width="12" />
