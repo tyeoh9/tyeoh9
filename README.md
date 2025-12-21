@@ -4,7 +4,7 @@ I like building things—sometimes useful, sometimes just for fun 🚀. I'm usua
 
 ## What I'm currently working on
 
-Building Cursor for Google Docs
+⚙️ Building Cursor for Google Docs
 
 ## Some tools I code with
 <div>
