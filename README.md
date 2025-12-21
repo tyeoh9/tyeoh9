@@ -2,8 +2,9 @@
 
 I like building things—sometimes useful, sometimes just for fun 🚀. I'm usually tinkering with new ideas, shipping projects, or trying out tools I haven't used before. I'm into software engineering, machine learning, and everything in between. When I'm not coding, I'm probably cooking 🍳 or staying up too late watching Formula 1 🏎️.
 
-## Some tools I code with
-I'm currently tinkering with Claude Code...
+## What I'm currently working on
+
+Building Cursor for Google Docs
 
 ## Some tools I code with
 <div>
