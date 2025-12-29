@@ -4,7 +4,7 @@ I like building things—sometimes useful, sometimes just for fun 🚀. I'm usua
 
 ## What I'm currently working on
 
-⚙️ Building Cursor for Google Docs
+⚙️ Building Cursor for Google Docs. Check it out [here](https://github.com/tyeoh9/ai-powered-planner)
 
 ## Some tools I code with
 <div>
