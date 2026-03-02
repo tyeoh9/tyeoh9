@@ -4,7 +4,9 @@ I like building things—sometimes useful, sometimes just for fun 🚀. I'm usua
 
 ## What I'm currently working on
 
-🏗️ A mini search engine that runs on Wikipedia data. Check it out [here](https://github.com/tyeoh9/search-engine)
+- 🔎 [search-engine](https://github.com/tyeoh9/search-engine) - Find relevant information based on your search
+- 👁️‍🗨️ [llm-validation-framework](https://github.com/tyeoh9/llm-validation-framework) - Catch unwanted outputs before it reaches the user
+- 🪫 [repometrics](https://github.com/tyeoh9/repometrics) - A CLI that scores repo structure quality
 
 ## Some tools I code with
 <div>
