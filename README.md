@@ -7,6 +7,7 @@ I like building things—sometimes useful, sometimes just for fun 🚀. I'm usua
 - 🔎 [search-engine](https://github.com/tyeoh9/search-engine) - Find relevant information based on your search
 - 👁️‍🗨️ [llm-validation-framework](https://github.com/tyeoh9/llm-validation-framework) - Catch unwanted outputs before it reaches the user
 - 🪫 [repometrics](https://github.com/tyeoh9/repometrics) - A CLI that scores repo structure quality
+- ✍️ [inky](https://inky-254095790852.us-central1.run.app) - Cursor meets Google Docs
 
 ## Some tools I code with
 <div>
